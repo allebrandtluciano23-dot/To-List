@@ -1,0 +1,25 @@
+# Todo App
+
+Aplicativo de lista de tarefas (to-do list) desenvolvido como projeto de estudo.
+
+## Tecnologias
+
+- Node.js
+- (outras tecnologias que você for usando, ex: React, Express, etc.)
+
+## Funcionalidades
+
+- [ ] Adicionar tarefa
+- [ ] Marcar tarefa como concluída
+- [ ] Remover tarefa
+
+## Como rodar o projeto
+
+git clone https://github.com/seu-usuario/todo-app.git
+cd todo-app
+npm install
+npm start
+
+## Status
+
+Em desenvolvimento
